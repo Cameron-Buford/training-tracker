@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.split-head {
+  display: flex;
+  background-color: pink;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.head {
+  background-color: lightcoral;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+	align-items: center;
+
+}
+
+.title {
+  background-color: green;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.right-head {
+  display: flex;
+  background-color: purple;
+}
+
+.drills-butt {
+  background-color: blue;
+
+}
+
+.dropdown {
+  display: inline-block;
+}
+
+.body {
+  background-color: slategray;
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+	align-items: center;
+
+}
+
+.foot {
+  background-color: springgreen;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  display: flex;
+  
+}
+
+.drill-data {
+  background-color: tan;
+  width: 200px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.drill-box {
+  background-color: brown;
+  border:black;
+
+}

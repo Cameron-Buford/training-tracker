@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Draw Shot",
+    "score": 1.00,
+    "description": "Hands at side. On timer beep, draw pistol and make one shot in IPSC A-Zone at 5 yards"
+  }, {
+    "id": 2,
+    "name": "El Prez",
+    "score": 8.00,
+    "description": "At 7 yards with back to three spaced targets.  On timer beep, turn and draw pistol and engage each target with two shots.  Then perform a slidelock reload and engage all three with two shots again."
+  }, {
+    "id": 3,
+    "name": "Draw, shot, reload, shot",
+    "score": 3.00,
+    "description": "Hands at side. On timer beep, draw pistol and make one shot on A Zone and perform a slide lock reload and make a second shot on A zone."
+  }, {
+    "id": 4,
+    "name": "Bill Drill",
+    "score": 3.00,
+    "description": "Hands at side.  On timer beep, draw pistol and engage the A zone with six shots."
+  }]
